@@ -1,4 +1,4 @@
-# Fun with shell 
+# Fun with shell scripting 
 Shell Scripts that can initialize a empty node project,basic node+express project,react in js project,react in ts project
 ## Table of Contents
 
