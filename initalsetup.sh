@@ -1,0 +1,1 @@
+chmod +x createReactProjectts.sh createReactProjectjs.sh createNodeproject.sh createNodeExpressproject.sh
